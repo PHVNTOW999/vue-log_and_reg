@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "username": "nnnNasty",
+      "email": "nasty1999@gmail.com",
+      "password": "loadroad1984"
+    },
+    {
+      "id": 1,
+      "username": "vitas",
+      "email": "vitamin@mail.ru",
+      "password": "pridurok"
+    },
+    {
+      "id": 2,
+      "username": "OlegRain",
+      "email": "veterPost@gmail.com",
+      "password": "faster_then_light009"
+    },
+    {
+      "id": 3,
+      "username": "vikaReed",
+      "email": "samaraMyHome@gmail.com",
+      "password": "omagadohlord"
+    },
+    {
+      "id": 4,
+      "username": "ggg",
+      "email": "freelord@outlook.com",
+      "password": "ggg123"
+    },
+    {
+      "id": 5,
+      "username": "lorian",
+      "email": "lorian@gmail.com",
+      "password": "nono12"
+    },
+    {
+      "id": 6,
+      "username": "xManera",
+      "email": "mana223@mail.com",
+      "password": "vbcn123"
+    }
+  ]
+}
